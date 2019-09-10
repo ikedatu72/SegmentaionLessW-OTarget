@@ -1,6 +1,6 @@
 # SegmentaionLessW-OTarget
 
-This repository serves as a code reference for the publication:
+This repository serves as a code reference for the publication [will be added later]
 
 Calculating Effective Elastic Properties of Berea Sandstone Using Segmentation-less Method without Targets 
 
