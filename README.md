@@ -8,3 +8,5 @@ Jackson School of Geosciences, The University of Texas at Austin
 MATLAB codes used in the publication are converted to Python 3. All codes are for demonstration purpose and have not been optimized for the sake of simplicity.   
 
 Please see "CodeDemonstration.ipynb" for the demonstration. Note that we only use the subsample from the full CT-images.  
+
+Full data are available at https://utexas.box.com/s/o864otkl03lcndy9fvbzuqmoltaowt96. The data are being moved to the cloud database. Please contact Ken Ikeda (ikeda.ken(At Sign)utexas.edu).  
