@@ -9,4 +9,4 @@ MATLAB codes used in the publication are converted to Python 3. All codes are fo
 
 Please see "CodeDemonstration.ipynb" for the demonstration. Note that we only use the subsample from the full CT-images.  
 
-Full data are available at https://utexas.box.com/s/o864otkl03lcndy9fvbzuqmoltaowt96. The data are being moved to the cloud database. Please contact Ken Ikeda (ikeda.ken(At Sign)utexas.edu).  
+Full data are available at https://utexas.box.com/s/5jkdzgilaa5rfn4bctuo9p2k2qzlr2xd. Please contact Ken Ikeda (ikeda.ken(At Sign)utexas.edu) if the link does not work.  
