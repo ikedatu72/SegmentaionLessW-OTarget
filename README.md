@@ -1,6 +1,6 @@
 # SegmentaionLessW-OTarget
 
-This repository serves as a code reference for the accepted publication: Calculating Effective Elastic Properties of Berea Sandstone Using the Segmentation-less Method without Targets, Journal of Geophysical Research - Solid Earth. (Full DOI is coming soon).
+This repository serves as a code reference for the accepted publication: Calculating Effective Elastic Properties of Berea Sandstone Using the Segmentation-less Method without Targets, Journal of Geophysical Research - Solid Earth. (https://doi.org/10.1029/2019JB018680).
 
 Ken Ikeda, Eric Goldfarb, and Nicola Tisato
 Jackson School of Geosciences, The University of Texas at Austin
